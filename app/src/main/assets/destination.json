@@ -1,0 +1,26 @@
+{
+  "main/tabs/dash": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/dash",
+    "className": "com.example.bubble.ppjoke.ui.dashboard.DashboardFragment",
+    "id": 565974158
+  },
+  "main/tabs/home": {
+    "isFragment": true,
+    "asStarter": true,
+    "needLogin": false,
+    "pageUrl": "main/tabs/home",
+    "className": "com.example.bubble.ppjoke.ui.home.HomeFragment",
+    "id": 216688990
+  },
+  "main/tabs/notification": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/notification",
+    "className": "com.example.bubble.ppjoke.ui.notifications.NotificationsFragment",
+    "id": 973006646
+  }
+}
